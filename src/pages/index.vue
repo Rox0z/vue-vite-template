@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div>
     <img alt="Vue logo" class="m-auto" src="../assets/images/logo.png" />
     <HelloWorld :msg="$t('hello.vue')" />
   </div>
